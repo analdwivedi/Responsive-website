@@ -1,0 +1,352 @@
+@media only screen and (max-width: 1440px) {
+  #navbar,
+  #section-1,
+  #section-2,
+  #section-3,
+  #footer {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .navList {
+    max-width: 80%;
+  }
+  #footer {
+    bottom: 39.9rem;
+  }
+  .midLogo img {
+    margin-right: 55em;
+  }
+  .lowerLogo img {
+    margin-right: 52em;
+  }
+  .tabPanel img {
+    height: 137%;
+  }
+  #section-2 {
+    max-width: 100%;
+  }
+  .wrapContent {
+    margin: 63.7% 16%;
+  }
+  .p10 {
+    margin: -61.7% 29%;
+  }
+  .p8 {
+    margin: -64.7% 16%;
+  }
+  .p9 {
+    margin: -60.4% 24.1%;
+  }
+  .tabsContainer {
+    bottom: 53.6em;
+  }
+  .accordion {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .navList {
+    font-size: 0.95rem;
+  }
+  .p1 {
+    font-size: 4.3rem;
+  }
+  .p2 {
+    font-size: 5rem;
+  }
+  body > img {
+    max-width: 0.3rem;
+  }
+  .logo img {
+    max-width: 40em;
+  }
+  #section-2 {
+    margin-top: 3%;
+  }
+  .midContent {
+    margin: -2.5% 21%;
+  }
+  .midLogo img {
+    margin-right: 34em;
+    position: relative;
+    top: 19px;
+  }
+  .tabsContainer {
+    bottom: 23.6em;
+  }
+  #footer {
+    bottom: 57.4%;
+  }
+  .p13 {
+    left: 24rem;
+    bottom: 30px;
+  }
+  .lowerLogo img {
+    margin-right: 34em;
+    margin-bottom: 2em;
+  }
+  .panelEvent {
+    bottom: 17%;
+  }
+  .tabPanel img {
+    height: 105%;
+  }
+  .p9 {
+    margin: -39% 27.1%;
+    font-size: x-large;
+  }
+  .p8 {
+    font-size: 6.6rem;
+    margin: -44.3% 17%;
+  }
+  .p10 {
+    margin: -41% 18%;
+    padding-left: 19%;
+  }
+  .p5 {
+    margin: -12% 16%;
+  }
+  .p6 {
+    margin: -6% 27%;
+  }
+  .p12 {
+    margin-top: 3px;
+  }
+  .p11 {
+    margin-top: 6px;
+  }
+  .p7 {
+    margin: -51% 17%;
+  }
+  .carousel {
+    position: relative;
+    top: 12.3rem;
+  }
+  .content-2 img {
+    margin-top: 17px;
+  }
+  .midList > li > a {
+    position: relative;
+    top: 16px;
+  }
+  .wrapContent {
+    margin: 62% 13%;
+  }
+  .accordion {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .navList {
+    font-size: 0.9rem;
+    margin-right: 2rem;
+  }
+  .navList a {
+    margin-left: 51px;
+  }
+  .p1 {
+    font-size: 3.5rem;
+  }
+  .p2 {
+    font-size: 4rem;
+  }
+  body > img {
+    max-width: 0.3rem;
+  }
+  .logo img {
+    max-width: 40em;
+  }
+  #section-2 {
+    margin-top: -26%;
+  }
+  .midContent {
+    margin: -3.2% 21%;
+  }
+  .midLogo {
+    width: 51%;
+  }
+  .midLogo img {
+    margin-right: 22.5em;
+    position: relative;
+    top: 20.1rem;
+  }
+  .tabsContainer {
+    bottom: 6.2em;
+  }
+  #footer {
+    bottom: -9rem;
+  }
+  .p13 {
+    left: 15rem;
+    font-size: 15px;
+  }
+  .lowerLogo img {
+    margin-right: 23em;
+  }
+  .panelEvent {
+    bottom: -7%;
+  }
+  .tabPanel img {
+    height: 31.5rem;
+  }
+  .p9 {
+    margin: -16.5% 30%;
+    font-size: 22px;
+  }
+  .p8 {
+    font-size: 6.4rem;
+    margin: -23.6% 17%;
+  }
+  .p10 {
+    margin: -20% 9%;
+    padding-left: 31%;
+    font-size: 15px;
+  }
+  .p5 {
+    margin: -15% 16%;
+    font-size: 6.7rem;
+  }
+  .p6 {
+    margin: -7.4% 30%;
+    font-size: 22px;
+  }
+  .p12 {
+    margin-top: 3px;
+  }
+  .p11 {
+    margin-top: 6px;
+  }
+  .p7 {
+    margin: -69% 16%;
+    font-size: 15px;
+  }
+  .content-2 {
+    margin-top: 18.8rem;
+  }
+  .midList > li > a {
+    position: relative;
+    font-size: 0.9rem;
+    top: 19.9rem;
+  }
+  .carousel {
+    position: relative;
+    top: 20.8rem;
+  }
+  .wrapContent {
+    margin: 65.2% 13%;
+  }
+  .accordion {
+    display: none;
+  }
+  .content-1 {
+    bottom: -13px;
+  }
+}
+/* mobile css */
+
+@media only screen and (max-width: 426px) {
+  .tabsContainer {
+    display: none;
+  }
+  .accordion {
+    display: block;
+  }
+  .navList {
+    font-size: 0.85rem;
+    margin-right: 1rem;
+  }
+  .navList a {
+    margin-left: 5px;
+  }
+  .content-1 {
+    margin-top: 38%;
+    bottom: 30px;
+    margin-left: 2.8rem;
+  }
+  .p1 {
+    font-size: 3rem;
+  }
+  .p2 {
+    font-size: 3.46rem;
+  }
+  .midContent {
+    margin: -16.1% 21%;
+  }
+  .midList > li > a {
+    top: 16.9rem;
+    margin: 7px;
+    left: 7px;
+  }
+  .midLogo img {
+    margin-right: 9.9em;
+    top: 17.2rem;
+  }
+  .p4 {
+    font-size: 16.9px;
+  }
+  .p3 {
+    font-size: 91%;
+  }
+  .content-2 > img {
+    margin-top: -2rem;
+  }
+  .p5 {
+    margin: -41% 16%;
+    font-size: 6.3rem;
+  }
+  .p6 {
+    margin: -27.4% 39%;
+    font-size: 20px;
+  }
+  .p7 {
+    margin: -112% 9%;
+    font-size: 13px;
+    position: relative;
+    bottom: 75px;
+    left: 5%;
+  }
+  .p5 {
+    margin: -41% 16%;
+    font-size: 6rem;
+  }
+  .carousel {
+    top: 17.3rem;
+  }
+  .accordion {
+    margin-top: 5.3rem;
+  }
+  .p8 {
+    margin: -3.4% 9%;
+    font-size: 6rem;
+  }
+  .p9 {
+    margin: 9.5% 31%;
+    font-size: 20px;
+  }
+  .p10 {
+    margin: 2.5% -5%;
+    padding-left: 50%;
+    font-size: 13px;
+  }
+  #footer {
+    bottom: 0rem;
+    padding-right: 30rem;
+  }
+  .lowerLogo img {
+    margin: 1.1rem 1.7rem;
+  }
+  .lowerContent {
+    margin: 2% 19.1%;
+  }
+  .p13 {
+    left: 7.7rem;
+    font-size: 12px;
+    bottom: 25px;
+  }
+  .p11 {
+    font-size: 91%;
+  }
+  .p12 {
+    font-size: 16.9px;
+  }
+}

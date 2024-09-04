@@ -1,0 +1,24 @@
+.accordion{
+   width: 30rem;
+}
+.accordion-title{
+    background-color: rgb(147, 33, 33);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+.accordion-title:hover{
+    background-color: rgb(180, 85, 85);
+    color: white;
+    cursor: pointer;
+    transition: background 1s;
+}
+.accordion-content{
+    background-color: rgb(37, 8, 8);
+    color: white;
+    padding: 20px;
+    display: none;
+}
+.accordion-item.active .accordion-content{
+    display: block;
+}
